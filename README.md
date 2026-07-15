@@ -153,14 +153,14 @@ Durante o projeto foram explorados diversos recursos da biblioteca, incluindo:
 └── desafios - aula/
     └── desafio_aula.ipynb
 └── imagens/
-    └── imigracao_america_sul.png
-    └── imigracao_argentina_brasil.png
-    └── imigracao_brasil.png
-    └── imigracao_brasil_colombia_argentina_peru.png
+    ├── imigracao_america_sul.png
+    ├── imigracao_argentina_brasil.png
+    ├── imigracao_brasil.png
+    ├── imigracao_brasil_colombia_argentina_peru.png
     └── imigracao_top_10_global.png
 ├── Analisando_dados_de_imigração_no_Canadá.ipynb
 ├── IDEIAS_GERADAS.md
-├── README.md
+└── README.md
 ```
 
 ---
