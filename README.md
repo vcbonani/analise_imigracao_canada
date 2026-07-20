@@ -88,6 +88,8 @@ Ao longo da análise foi possível:
 
 Os resultados demonstram como a visualização de dados pode revelar padrões, tendências e comparações que seriam mais difíceis de identificar apenas por meio de tabelas.
 
+Além disso, para algumas visualizações específicas, como a imigração do Brasil, Argentina, Guina, Índia, foi feita uma pesquisa complementar de notícias e fatos históricos que podem suportar o entendimento dos números. O resultado pode ser conferido neste <a href="./contexto_eventos_historicos.md">arquivo</a>.
+
 ---
 
 ## 🛠️ Tecnologias e bibliotecas utilizadas
@@ -159,7 +161,7 @@ Durante o projeto foram explorados diversos recursos da biblioteca, incluindo:
 |   ├── imigracao_brasil_colombia_argentina_peru.png
 |   └── imigracao_top_10_global.png
 ├── Analisando_dados_de_imigração_no_Canadá.ipynb
-├── IDEIAS_GERADAS.md
+├── contexto_eventos_historicos.md
 └── README.md
 ```
 
