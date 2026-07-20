@@ -1,4 +1,4 @@
-# Imigração para o Canadá: Contexto e Eventos Históricos"
+# Imigração para o Canadá: Contexto e Eventos Históricos
 
 ## Comparativo da imigração do Brasil e Argentina para o Canadá (1980 a 2013)
 
